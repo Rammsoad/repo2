@@ -14,3 +14,4 @@
 12. mision nueva 2
 13. push panque
 14. impersonar a Anakaren
+15. Edición desde github
