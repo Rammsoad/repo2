@@ -15,3 +15,4 @@
 13. push panque
 14. impersonar a Anakaren
 15. Edición desde github
+16. resuelve #1
