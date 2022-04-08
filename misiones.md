@@ -16,3 +16,4 @@
 14. impersonar a Anakaren
 15. Edición desde github
 16. resuelve #1 ahora si
+17. relacionado a issue #2
