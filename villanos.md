@@ -12,3 +12,4 @@
 9. Thanos
 10. Duende verde
 11. villano nuevo
+12. fix #6
