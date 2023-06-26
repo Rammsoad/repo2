@@ -18,3 +18,4 @@
 16. resuelve #1 ahora si
 17. relacionado a issue #2
 18. misión nueva
+19. Salvar a Ciudad Gótica
