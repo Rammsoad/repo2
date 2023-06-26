@@ -13,3 +13,4 @@
 * Hulk
 * heroe nuevo
 * Capitán Planeta
+* simular cambios
